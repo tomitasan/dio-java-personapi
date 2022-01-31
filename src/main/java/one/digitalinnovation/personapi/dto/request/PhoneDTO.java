@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.dto.resquest;
+package one.digitalinnovation.personapi.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

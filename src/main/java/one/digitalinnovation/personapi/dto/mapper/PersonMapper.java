@@ -1,6 +1,6 @@
-package one.digitalinnovation.personapi.mapper;
+package one.digitalinnovation.personapi.dto.mapper;
 
-import one.digitalinnovation.personapi.dto.resquest.PersonDTO;
+import one.digitalinnovation.personapi.dto.request.PersonDTO;
 import one.digitalinnovation.personapi.entity.Person;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
